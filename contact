@@ -1,0 +1,19 @@
+<html>
+<head>
+<title>Student</title>
+</head>
+<body>
+<h1>Contact us</h1>
+<h3>please fill the form in a decent manner</h3>
+<form><label>Full Name</label><br>
+<input type = "text"><br>
+<label>E-mail</label><br>
+<input type ="email"><br>
+<i>example@example.com</i><br>
+<label>Message</label><br>
+<textarea style = "height:150px"></textarea><br>
+<input type = "submit" value = "submit"><br>
+</form>
+</body>
+</head>
+</html>
